@@ -61,10 +61,10 @@
 									]
 								},
 								"url": {
-									"raw": "https://{{PRODUCTION_URL}}/auth/o2/token",
+									"raw": "https://{{TOKEN_REFRESH_URL}}/auth/o2/token",
 									"protocol": "https",
 									"host": [
-										"{{PRODUCTION_URL}}"
+										"{{TOKEN_REFRESH_URL}}"
 									],
 									"path": [
 										"auth",
@@ -1910,10 +1910,10 @@
 									]
 								},
 								"url": {
-									"raw": "https://{{PRODUCTION_URL}}/auth/o2/token",
+									"raw": "https://{{TOKEN_REFRESH_URL}}/auth/o2/token",
 									"protocol": "https",
 									"host": [
-										"{{PRODUCTION_URL}}"
+										"{{TOKEN_REFRESH_URL}}"
 									],
 									"path": [
 										"auth",
@@ -3966,10 +3966,10 @@
 									]
 								},
 								"url": {
-									"raw": "https://{{SANDBOX_URL}}/auth/o2/token",
+									"raw": "https://{{TOKEN_REFRESH_URL}}/auth/o2/token",
 									"protocol": "https",
 									"host": [
-										"{{SANDBOX_URL}}"
+										"{{TOKEN_REFRESH_URL}}"
 									],
 									"path": [
 										"auth",
@@ -5813,10 +5813,10 @@
 									]
 								},
 								"url": {
-									"raw": "https://{{SANDBOX_URL}}/auth/o2/token",
+									"raw": "https://{{TOKEN_REFRESH_URL}}/auth/o2/token",
 									"protocol": "https",
 									"host": [
-										"{{SANDBOX_URL}}"
+										"{{TOKEN_REFRESH_URL}}"
 									],
 									"path": [
 										"auth",
